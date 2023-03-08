@@ -1,0 +1,34 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "Action Map",
+            "id": "4e42d081-89d6-4e9d-9719-d37d8f667821",
+            "actions": [
+                {
+                    "name": "Menu",
+                    "type": "Button",
+                    "id": "bfb52f7d-7a43-4b7d-8a1d-d367f4af292c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fcec3955-62ac-4f99-8064-6830ce613490",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
