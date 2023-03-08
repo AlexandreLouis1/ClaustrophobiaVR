@@ -16,3 +16,5 @@ Teleportation : left thumbstick
 # Assets
 Auto Hand - VR Physics Interaction
 https://assetstore.unity.com/packages/tools/game-toolkits/auto-hand-vr-physics-interaction-165323
+Low Poly Park
+https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815
